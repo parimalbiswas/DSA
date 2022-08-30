@@ -64,3 +64,5 @@ function insertNodeAtTail(head, data) {
         return head;
   
 }
+
+// https://www.youtube.com/watch?v=oAja8-Ulz6o&t=1270s
